@@ -12,7 +12,7 @@ const arrayEntries = [
     [ 'age', 23 ]
 ]
 
-const usuario = Object.fromEntries(arrayEntries) 
+const usuario = Object.fromEntries(arrayEntries)
 
 console.log(usuario)
 /* {
